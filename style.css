@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -87,3 +88,5 @@ p {
     font-size: 17px;
     line-height: 1.3;
 }
+
+
